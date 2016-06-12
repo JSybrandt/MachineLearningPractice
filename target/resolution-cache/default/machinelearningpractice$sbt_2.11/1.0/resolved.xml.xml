@@ -4,7 +4,7 @@
 		module="machinelearningpractice$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160528224751"
+		publication="20160611231220"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

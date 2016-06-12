@@ -1,4 +1,4 @@
-[info] Updating {file:/F:/Projects/MachineLearningPractice/project/}machinelearningpractice-build...
+[info] Updating {file:/C:/Projects/MachineLearningPractice/project/}machinelearningpractice-build...
 [debug] :: resolving dependencies :: default#machinelearningpractice-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#machinelearningpractice-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#machinelearningpractice-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3712680c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36cff1b4
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 2630ms :: artifacts dl 315ms
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT compile produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-compile.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT runtime produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-runtime.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT test produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-test.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT provided produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-provided.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT optional produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-optional.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT compile-internal produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-compile-internal.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT runtime-internal produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-runtime-internal.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT test-internal produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-test-internal.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT plugin produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-plugin.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT sources produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-sources.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT docs produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-docs.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT pom produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-pom.xml
-[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT scala-tool produced in F:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-scala-tool.xml
-[debug] 	resolve done (2630ms resolve - 315ms download)
+[debug] :: resolution report :: resolve 1329ms :: artifacts dl 63ms
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT compile produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-compile.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT runtime produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-runtime.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT test produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-test.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT provided produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-provided.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT optional produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-optional.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT compile-internal produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-compile-internal.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT runtime-internal produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-runtime-internal.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT test-internal produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-test-internal.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT plugin produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-plugin.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT sources produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-sources.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT docs produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-docs.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT pom produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-pom.xml
+[debug] 	report for default#machinelearningpractice-build;0.1-SNAPSHOT scala-tool produced in C:\Projects\MachineLearningPractice\project\target\resolution-cache\reports\default-machinelearningpractice-build-scala-tool.xml
+[debug] 	resolve done (1329ms resolve - 63ms download)
 [info] Done updating.

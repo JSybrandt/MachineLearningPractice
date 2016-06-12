@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1180ms :: artifacts dl 45ms
-[debug] 	report for default#machinelearningpractice$sbt_2.11;1.0 default produced in F:\Projects\MachineLearningPractice\target\resolution-cache\reports\default-machinelearningpractice$sbt_2.11-default.xml
-[debug] 	resolve done (1180ms resolve - 45ms download)
+[debug] :: resolution report :: resolve 605ms :: artifacts dl 40ms
+[debug] 	report for default#machinelearningpractice$sbt_2.11;1.0 default produced in C:\Projects\MachineLearningPractice\target\resolution-cache\reports\default-machinelearningpractice$sbt_2.11-default.xml
+[debug] 	resolve done (605ms resolve - 40ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#machinelearningpractice$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1045,7 +1045,17 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#ivy;0.13.8!ivy.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#cross;0.13.8!cross.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt.ivy#ivy;2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f!ivy.jar(src)
-[debug] 	[NOT REQUIRED] com.jcraft#jsch;0.1.46!jsch.jar(src)
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/com.jcraft/jsch/0.1.46/srcs/jsch-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.jcraft/jsch/0.1.46/srcs/jsch-sources.jar
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.jcraft/jsch/0.1.46/srcs/jsch-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.jcraft/jsch/0.1.46/srcs/jsch-sources.jar
+[debug] 		tried C:\Users\nalta\.ivy2\local\com.jcraft\jsch\0.1.46\srcs\jsch-sources.jar
+[debug] 		tried https://jcenter.bintray.com/com/jcraft/jsch/0.1.46/jsch-0.1.46-sources.jar
+[info] downloading https://jcenter.bintray.com/com/jcraft/jsch/0.1.46/jsch-0.1.46-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/com/jcraft/jsch/0.1.46/jsch-0.1.46-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/com/jcraft/jsch/0.1.46/jsch-0.1.46-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/com/jcraft/jsch/0.1.46/jsch-0.1.46-sources.jar
+[info] 	[SUCCESSFUL ] com.jcraft#jsch;0.1.46!jsch.jar(src) (2697ms)
 [debug] 	[NOT REQUIRED] org.scala-sbt#serialization_2.10;0.1.1!serialization_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-pickling_2.10;0.10.0!scala-pickling_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scalamacros#quasiquotes_2.10;2.0.1!quasiquotes_2.10.jar(src)
@@ -1069,6 +1079,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 162ms :: artifacts dl 58ms
-[debug] 	report for default#machinelearningpractice$sources_2.11;1.0 default produced in F:\Projects\MachineLearningPractice\target\resolution-cache\reports\default-machinelearningpractice$sources_2.11-default.xml
-[debug] 	resolve done (162ms resolve - 58ms download)
+[debug] :: resolution report :: resolve 126ms :: artifacts dl 4951ms
+[debug] 	report for default#machinelearningpractice$sources_2.11;1.0 default produced in C:\Projects\MachineLearningPractice\target\resolution-cache\reports\default-machinelearningpractice$sources_2.11-default.xml
+[debug] 	resolve done (126ms resolve - 4951ms download)
